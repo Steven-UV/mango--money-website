@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mango--money-website/static/css/main.6ac2eca7.chunk.css",
+    "main.js": "/mango--money-website/static/js/main.5df363d5.chunk.js",
+    "main.js.map": "/mango--money-website/static/js/main.5df363d5.chunk.js.map",
+    "runtime-main.js": "/mango--money-website/static/js/runtime-main.4f524ed4.js",
+    "runtime-main.js.map": "/mango--money-website/static/js/runtime-main.4f524ed4.js.map",
+    "static/js/2.ac976310.chunk.js": "/mango--money-website/static/js/2.ac976310.chunk.js",
+    "static/js/2.ac976310.chunk.js.map": "/mango--money-website/static/js/2.ac976310.chunk.js.map",
+    "index.html": "/mango--money-website/index.html",
+    "precache-manifest.28682e439a07c30bad336d9cb718bdef.js": "/mango--money-website/precache-manifest.28682e439a07c30bad336d9cb718bdef.js",
+    "service-worker.js": "/mango--money-website/service-worker.js",
+    "static/css/main.6ac2eca7.chunk.css.map": "/mango--money-website/static/css/main.6ac2eca7.chunk.css.map",
+    "static/js/2.ac976310.chunk.js.LICENSE.txt": "/mango--money-website/static/js/2.ac976310.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f524ed4.js",
+    "static/js/2.ac976310.chunk.js",
+    "static/css/main.6ac2eca7.chunk.css",
+    "static/js/main.5df363d5.chunk.js"
+  ]
+}
